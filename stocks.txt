@@ -1,0 +1,799 @@
+====================================================================================================
+Company Name       : Infosys
+Stock Code         : INFOSY
+Current Price      : ₹611.83
+Price Change       : +1.99%
+52-Week High       : ₹5073.28
+52-Week Low        : ₹544.55
+Market Capitalization: ₹14.88T
+P/E Ratio          : 17.48
+Dividend Yield     : 2.24%
+Earnings Per Share : 22.76
+Volume             : 9.5M
+Average Volume     : 5.5M
+Company Overview   : Infosys is a leading company in its respective industry.
+Analyst Ratings    : Buy
+
+====================================================================================================
+Company Name       : HDFC Bank
+Stock Code         : HDFCBA
+Current Price      : ₹2907.31
+Price Change       : -2.34%
+52-Week High       : ₹5778.54
+52-Week Low        : ₹149.96
+Market Capitalization: ₹7.29T
+P/E Ratio          : 20.16
+Dividend Yield     : 2.95%
+Earnings Per Share : 49.34
+Volume             : 3.5M
+Average Volume     : 2.5M
+Company Overview   : HDFC Bank is a leading company in its respective industry.
+Analyst Ratings    : Hold
+
+====================================================================================================
+Company Name       : ICICI Bank
+Stock Code         : ICICIB
+Current Price      : ₹4719.15
+Price Change       : +1.98%
+52-Week High       : ₹5889.77
+52-Week Low        : ₹181.27
+Market Capitalization: ₹17.21T
+P/E Ratio          : 30.02
+Dividend Yield     : 2.75%
+Earnings Per Share : 7.89
+Volume             : 3.9M
+Average Volume     : 6.2M
+Company Overview   : ICICI Bank is a leading company in its respective industry.
+Analyst Ratings    : Buy
+
+====================================================================================================
+Company Name       : Adani Enterprises
+Stock Code         : ADANIE
+Current Price      : ₹620.60
+Price Change       : +0.95%
+52-Week High       : ₹5680.92
+52-Week Low        : ₹220.70
+Market Capitalization: ₹12.29T
+P/E Ratio          : 32.98
+Dividend Yield     : 1.46%
+Earnings Per Share : 31.82
+Volume             : 6.6M
+Average Volume     : 4.0M
+Company Overview   : Adani Enterprises is a leading company in its respective industry.
+Analyst Ratings    : Buy
+
+====================================================================================================
+Company Name       : Larsen & Toubro
+Stock Code         : LARSEN
+Current Price      : ₹2760.36
+Price Change       : +2.68%
+52-Week High       : ₹5609.21
+52-Week Low        : ₹809.68
+Market Capitalization: ₹2.94T
+P/E Ratio          : 22.11
+Dividend Yield     : 2.49%
+Earnings Per Share : 42.64
+Volume             : 8.1M
+Average Volume     : 4.2M
+Company Overview   : Larsen & Toubro is a leading company in its respective industry.
+Analyst Ratings    : Buy
+
+====================================================================================================
+Company Name       : Bharti Airtel
+Stock Code         : BHARTI
+Current Price      : ₹4639.06
+Price Change       : +1.05%
+52-Week High       : ₹5423.69
+52-Week Low        : ₹934.94
+Market Capitalization: ₹10.84T
+P/E Ratio          : 25.64
+Dividend Yield     : 1.38%
+Earnings Per Share : 43.98
+Volume             : 3.4M
+Average Volume     : 6.1M
+Company Overview   : Bharti Airtel is a leading company in its respective industry.
+Analyst Ratings    : Strong Buy
+
+====================================================================================================
+Company Name       : Wipro
+Stock Code         : WIPRO
+Current Price      : ₹1893.43
+Price Change       : +1.85%
+52-Week High       : ₹5955.52
+52-Week Low        : ₹862.37
+Market Capitalization: ₹19.52T
+P/E Ratio          : 35.45
+Dividend Yield     : 1.48%
+Earnings Per Share : 18.61
+Volume             : 7.4M
+Average Volume     : 4.4M
+Company Overview   : Wipro is a leading company in its respective industry.
+Analyst Ratings    : Strong Buy
+
+====================================================================================================
+Company Name       : State Bank of India
+Stock Code         : STATEB
+Current Price      : ₹3390.20
+Price Change       : -2.24%
+52-Week High       : ₹5146.51
+52-Week Low        : ₹505.51
+Market Capitalization: ₹9.59T
+P/E Ratio          : 28.97
+Dividend Yield     : 2.94%
+Earnings Per Share : 19.50
+Volume             : 2.3M
+Average Volume     : 6.0M
+Company Overview   : State Bank of India is a leading company in its respective industry.
+Analyst Ratings    : Buy
+
+====================================================================================================
+Company Name       : HCL Technologies
+Stock Code         : HCLTEC
+Current Price      : ₹2337.99
+Price Change       : +2.09%
+52-Week High       : ₹5832.85
+52-Week Low        : ₹617.32
+Market Capitalization: ₹13.97T
+P/E Ratio          : 25.04
+Dividend Yield     : 1.71%
+Earnings Per Share : 31.53
+Volume             : 6.6M
+Average Volume     : 7.5M
+Company Overview   : HCL Technologies is a leading company in its respective industry.
+Analyst Ratings    : Hold
+
+====================================================================================================
+Company Name       : Bajaj Finance
+Stock Code         : BAJAJF
+Current Price      : ₹2858.58
+Price Change       : +0.20%
+52-Week High       : ₹5356.29
+52-Week Low        : ₹749.92
+Market Capitalization: ₹6.03T
+P/E Ratio          : 36.36
+Dividend Yield     : 2.82%
+Earnings Per Share : 34.04
+Volume             : 9.5M
+Average Volume     : 7.6M
+Company Overview   : Bajaj Finance is a leading company in its respective industry.
+Analyst Ratings    : Strong Buy
+
+====================================================================================================
+Company Name       : Kotak Mahindra Bank
+Stock Code         : KOTAKM
+Current Price      : ₹3654.82
+Price Change       : -2.97%
+52-Week High       : ₹5519.18
+52-Week Low        : ₹388.30
+Market Capitalization: ₹7.95T
+P/E Ratio          : 38.37
+Dividend Yield     : 2.94%
+Earnings Per Share : 40.27
+Volume             : 7.7M
+Average Volume     : 4.5M
+Company Overview   : Kotak Mahindra Bank is a leading company in its respective industry.
+Analyst Ratings    : Sell
+
+====================================================================================================
+Company Name       : ITC
+Stock Code         : ITC
+Current Price      : ₹917.87
+Price Change       : -0.91%
+52-Week High       : ₹5016.72
+52-Week Low        : ₹617.99
+Market Capitalization: ₹7.10T
+P/E Ratio          : 12.08
+Dividend Yield     : 1.55%
+Earnings Per Share : 30.16
+Volume             : 5.8M
+Average Volume     : 8.2M
+Company Overview   : ITC is a leading company in its respective industry.
+Analyst Ratings    : Sell
+
+====================================================================================================
+Company Name       : Axis Bank
+Stock Code         : AXISBA
+Current Price      : ₹4974.26
+Price Change       : -1.81%
+52-Week High       : ₹5029.01
+52-Week Low        : ₹588.27
+Market Capitalization: ₹3.80T
+P/E Ratio          : 34.01
+Dividend Yield     : 1.32%
+Earnings Per Share : 24.85
+Volume             : 3.2M
+Average Volume     : 9.6M
+Company Overview   : Axis Bank is a leading company in its respective industry.
+Analyst Ratings    : Sell
+
+====================================================================================================
+Company Name       : Maruti Suzuki
+Stock Code         : MARUTI
+Current Price      : ₹2053.55
+Price Change       : +0.40%
+52-Week High       : ₹5198.31
+52-Week Low        : ₹359.55
+Market Capitalization: ₹4.84T
+P/E Ratio          : 10.32
+Dividend Yield     : 2.22%
+Earnings Per Share : 18.75
+Volume             : 8.9M
+Average Volume     : 1.2M
+Company Overview   : Maruti Suzuki is a leading company in its respective industry.
+Analyst Ratings    : Strong Buy
+
+====================================================================================================
+Company Name       : NTPC
+Stock Code         : NTPC
+Current Price      : ₹1639.73
+Price Change       : +0.90%
+52-Week High       : ₹5835.71
+52-Week Low        : ₹982.07
+Market Capitalization: ₹12.97T
+P/E Ratio          : 24.20
+Dividend Yield     : 0.96%
+Earnings Per Share : 19.02
+Volume             : 2.1M
+Average Volume     : 4.4M
+Company Overview   : NTPC is a leading company in its respective industry.
+Analyst Ratings    : Sell
+
+====================================================================================================
+Company Name       : Power Grid Corp
+Stock Code         : POWERG
+Current Price      : ₹3531.82
+Price Change       : +2.84%
+52-Week High       : ₹5238.98
+52-Week Low        : ₹549.21
+Market Capitalization: ₹2.29T
+P/E Ratio          : 31.51
+Dividend Yield     : 1.50%
+Earnings Per Share : 31.56
+Volume             : 8.1M
+Average Volume     : 5.8M
+Company Overview   : Power Grid Corp is a leading company in its respective industry.
+Analyst Ratings    : Hold
+
+====================================================================================================
+Company Name       : UltraTech Cement
+Stock Code         : ULTRAT
+Current Price      : ₹133.69
+Price Change       : +1.40%
+52-Week High       : ₹5258.25
+52-Week Low        : ₹388.79
+Market Capitalization: ₹4.53T
+P/E Ratio          : 14.62
+Dividend Yield     : 2.77%
+Earnings Per Share : 49.61
+Volume             : 8.2M
+Average Volume     : 5.2M
+Company Overview   : UltraTech Cement is a leading company in its respective industry.
+Analyst Ratings    : Sell
+
+====================================================================================================
+Company Name       : Asian Paints
+Stock Code         : ASIANP
+Current Price      : ₹3468.96
+Price Change       : -2.62%
+52-Week High       : ₹5425.27
+52-Week Low        : ₹100.01
+Market Capitalization: ₹1.09T
+P/E Ratio          : 11.95
+Dividend Yield     : 2.38%
+Earnings Per Share : 31.94
+Volume             : 9.5M
+Average Volume     : 5.4M
+Company Overview   : Asian Paints is a leading company in its respective industry.
+Analyst Ratings    : Strong Buy
+
+====================================================================================================
+Company Name       : Nestle India
+Stock Code         : NESTLE
+Current Price      : ₹1343.07
+Price Change       : +2.75%
+52-Week High       : ₹5357.73
+52-Week Low        : ₹697.71
+Market Capitalization: ₹5.25T
+P/E Ratio          : 35.93
+Dividend Yield     : 1.52%
+Earnings Per Share : 27.78
+Volume             : 7.4M
+Average Volume     : 9.9M
+Company Overview   : Nestle India is a leading company in its respective industry.
+Analyst Ratings    : Strong Buy
+
+====================================================================================================
+Company Name       : Tata Motors
+Stock Code         : TATAMO
+Current Price      : ₹1383.93
+Price Change       : -2.01%
+52-Week High       : ₹5323.19
+52-Week Low        : ₹276.68
+Market Capitalization: ₹2.73T
+P/E Ratio          : 16.77
+Dividend Yield     : 2.17%
+Earnings Per Share : 15.91
+Volume             : 9.0M
+Average Volume     : 9.7M
+Company Overview   : Tata Motors is a leading company in its respective industry.
+Analyst Ratings    : Buy
+
+====================================================================================================
+Company Name       : Amazon
+Stock Code         : AMAZON
+Current Price      : $3093.92
+Price Change       : -1.05%
+52-Week High       : $5627.82
+52-Week Low        : $975.69
+Market Capitalization: $8.67T
+P/E Ratio          : 17.32
+Dividend Yield     : 1.55%
+Earnings Per Share : 40.34
+Volume             : 6.6M
+Average Volume     : 9.2M
+Company Overview   : Amazon is a leading company in its respective industry.
+Analyst Ratings    : Strong Buy
+
+====================================================================================================
+Company Name       : Alphabet (Google)
+Stock Code         : ALPHAB
+Current Price      : $142.33
+Price Change       : +0.55%
+52-Week High       : $5966.20
+52-Week Low        : $452.09
+Market Capitalization: $6.58T
+P/E Ratio          : 20.78
+Dividend Yield     : 2.97%
+Earnings Per Share : 8.34
+Volume             : 9.3M
+Average Volume     : 1.3M
+Company Overview   : Alphabet (Google) is a leading company in its respective industry.
+Analyst Ratings    : Sell
+
+====================================================================================================
+Company Name       : Tesla
+Stock Code         : TESLA
+Current Price      : $1233.61
+Price Change       : +1.51%
+52-Week High       : $5480.66
+52-Week Low        : $385.58
+Market Capitalization: $10.89T
+P/E Ratio          : 28.34
+Dividend Yield     : 1.15%
+Earnings Per Share : 35.31
+Volume             : 3.0M
+Average Volume     : 2.2M
+Company Overview   : Tesla is a leading company in its respective industry.
+Analyst Ratings    : Hold
+
+====================================================================================================
+Company Name       : NVIDIA
+Stock Code         : NVIDIA
+Current Price      : $3752.64
+Price Change       : -0.48%
+52-Week High       : $5152.05
+52-Week Low        : $989.91
+Market Capitalization: $12.34T
+P/E Ratio          : 31.28
+Dividend Yield     : 2.82%
+Earnings Per Share : 25.41
+Volume             : 5.1M
+Average Volume     : 9.4M
+Company Overview   : NVIDIA is a leading company in its respective industry.
+Analyst Ratings    : Buy
+
+====================================================================================================
+Company Name       : Meta Platforms
+Stock Code         : METAPL
+Current Price      : $734.41
+Price Change       : +2.75%
+52-Week High       : $5405.00
+52-Week Low        : $217.74
+Market Capitalization: $10.39T
+P/E Ratio          : 34.91
+Dividend Yield     : 0.59%
+Earnings Per Share : 36.22
+Volume             : 1.8M
+Average Volume     : 5.4M
+Company Overview   : Meta Platforms is a leading company in its respective industry.
+Analyst Ratings    : Strong Buy
+
+====================================================================================================
+Company Name       : Samsung Electronics
+Stock Code         : SAMSUN
+Current Price      : $574.94
+Price Change       : +0.27%
+52-Week High       : $5545.36
+52-Week Low        : $834.31
+Market Capitalization: $2.32T
+P/E Ratio          : 25.47
+Dividend Yield     : 1.81%
+Earnings Per Share : 36.25
+Volume             : 3.0M
+Average Volume     : 9.1M
+Company Overview   : Samsung Electronics is a leading company in its respective industry.
+Analyst Ratings    : Hold
+
+====================================================================================================
+Company Name       : Intel
+Stock Code         : INTEL
+Current Price      : $4503.60
+Price Change       : +2.56%
+52-Week High       : $5326.30
+52-Week Low        : $611.35
+Market Capitalization: $19.55T
+P/E Ratio          : 10.33
+Dividend Yield     : 1.93%
+Earnings Per Share : 11.36
+Volume             : 3.0M
+Average Volume     : 9.2M
+Company Overview   : Intel is a leading company in its respective industry.
+Analyst Ratings    : Strong Buy
+
+====================================================================================================
+Company Name       : IBM
+Stock Code         : IBM
+Current Price      : $3860.43
+Price Change       : +0.19%
+52-Week High       : $5493.20
+52-Week Low        : $112.82
+Market Capitalization: $13.27T
+P/E Ratio          : 19.40
+Dividend Yield     : 2.31%
+Earnings Per Share : 32.42
+Volume             : 9.3M
+Average Volume     : 5.6M
+Company Overview   : IBM is a leading company in its respective industry.
+Analyst Ratings    : Buy
+
+====================================================================================================
+Company Name       : Oracle
+Stock Code         : ORACLE
+Current Price      : $2175.53
+Price Change       : +1.79%
+52-Week High       : $5425.20
+52-Week Low        : $917.12
+Market Capitalization: $13.34T
+P/E Ratio          : 38.53
+Dividend Yield     : 1.16%
+Earnings Per Share : 19.10
+Volume             : 6.8M
+Average Volume     : 7.6M
+Company Overview   : Oracle is a leading company in its respective industry.
+Analyst Ratings    : Hold
+
+====================================================================================================
+Company Name       : Cisco Systems
+Stock Code         : CISCOS
+Current Price      : $4876.69
+Price Change       : -2.12%
+52-Week High       : $5846.51
+52-Week Low        : $916.82
+Market Capitalization: $5.90T
+P/E Ratio          : 38.42
+Dividend Yield     : 1.61%
+Earnings Per Share : 33.80
+Volume             : 4.9M
+Average Volume     : 7.6M
+Company Overview   : Cisco Systems is a leading company in its respective industry.
+Analyst Ratings    : Hold
+
+====================================================================================================
+Company Name       : Sony
+Stock Code         : SONY
+Current Price      : $702.81
+Price Change       : -1.57%
+52-Week High       : $5092.05
+52-Week Low        : $464.67
+Market Capitalization: $12.41T
+P/E Ratio          : 16.00
+Dividend Yield     : 1.91%
+Earnings Per Share : 6.62
+Volume             : 1.8M
+Average Volume     : 6.0M
+Company Overview   : Sony is a leading company in its respective industry.
+Analyst Ratings    : Hold
+
+====================================================================================================
+Company Name       : Toyota
+Stock Code         : TOYOTA
+Current Price      : $3757.48
+Price Change       : -1.07%
+52-Week High       : $5399.70
+52-Week Low        : $751.53
+Market Capitalization: $2.14T
+P/E Ratio          : 20.28
+Dividend Yield     : 2.76%
+Earnings Per Share : 22.57
+Volume             : 2.0M
+Average Volume     : 6.8M
+Company Overview   : Toyota is a leading company in its respective industry.
+Analyst Ratings    : Strong Buy
+
+====================================================================================================
+Company Name       : PepsiCo
+Stock Code         : PEPSIC
+Current Price      : $469.76
+Price Change       : -1.57%
+52-Week High       : $5396.67
+52-Week Low        : $735.78
+Market Capitalization: $1.11T
+P/E Ratio          : 38.72
+Dividend Yield     : 1.28%
+Earnings Per Share : 42.22
+Volume             : 9.1M
+Average Volume     : 1.7M
+Company Overview   : PepsiCo is a leading company in its respective industry.
+Analyst Ratings    : Hold
+
+====================================================================================================
+Company Name       : Coca-Cola
+Stock Code         : COCA-C
+Current Price      : $1101.41
+Price Change       : -0.56%
+52-Week High       : $5231.81
+52-Week Low        : $280.19
+Market Capitalization: $15.88T
+P/E Ratio          : 31.01
+Dividend Yield     : 0.31%
+Earnings Per Share : 36.21
+Volume             : 4.6M
+Average Volume     : 8.7M
+Company Overview   : Coca-Cola is a leading company in its respective industry.
+Analyst Ratings    : Sell
+
+====================================================================================================
+Company Name       : Johnson & Johnson
+Stock Code         : JOHNSO
+Current Price      : $647.84
+Price Change       : -1.20%
+52-Week High       : $5960.07
+52-Week Low        : $968.68
+Market Capitalization: $15.00T
+P/E Ratio          : 19.10
+Dividend Yield     : 0.65%
+Earnings Per Share : 43.43
+Volume             : 6.1M
+Average Volume     : 7.8M
+Company Overview   : Johnson & Johnson is a leading company in its respective industry.
+Analyst Ratings    : Hold
+
+====================================================================================================
+Company Name       : Pfizer
+Stock Code         : PFIZER
+Current Price      : $1998.29
+Price Change       : +0.16%
+52-Week High       : $5406.29
+52-Week Low        : $297.06
+Market Capitalization: $7.69T
+P/E Ratio          : 39.20
+Dividend Yield     : 2.13%
+Earnings Per Share : 12.21
+Volume             : 3.8M
+Average Volume     : 5.9M
+Company Overview   : Pfizer is a leading company in its respective industry.
+Analyst Ratings    : Sell
+
+====================================================================================================
+Company Name       : ExxonMobil
+Stock Code         : EXXONM
+Current Price      : $3115.77
+Price Change       : +1.38%
+52-Week High       : $5715.27
+52-Week Low        : $399.47
+Market Capitalization: $9.79T
+P/E Ratio          : 14.75
+Dividend Yield     : 1.82%
+Earnings Per Share : 46.48
+Volume             : 6.3M
+Average Volume     : 1.3M
+Company Overview   : ExxonMobil is a leading company in its respective industry.
+Analyst Ratings    : Hold
+
+====================================================================================================
+Company Name       : Chevron
+Stock Code         : CHEVRO
+Current Price      : $4800.77
+Price Change       : +2.88%
+52-Week High       : $5419.15
+52-Week Low        : $233.45
+Market Capitalization: $8.12T
+P/E Ratio          : 30.72
+Dividend Yield     : 1.85%
+Earnings Per Share : 15.79
+Volume             : 4.1M
+Average Volume     : 4.0M
+Company Overview   : Chevron is a leading company in its respective industry.
+Analyst Ratings    : Sell
+
+====================================================================================================
+Company Name       : Walmart
+Stock Code         : WALMAR
+Current Price      : $2465.28
+Price Change       : -1.99%
+52-Week High       : $5787.67
+52-Week Low        : $656.91
+Market Capitalization: $16.20T
+P/E Ratio          : 32.68
+Dividend Yield     : 1.19%
+Earnings Per Share : 36.19
+Volume             : 6.8M
+Average Volume     : 6.8M
+Company Overview   : Walmart is a leading company in its respective industry.
+Analyst Ratings    : Strong Buy
+
+====================================================================================================
+Company Name       : Netflix
+Stock Code         : NETFLI
+Current Price      : $3269.28
+Price Change       : -2.24%
+52-Week High       : $5246.97
+52-Week Low        : $202.86
+Market Capitalization: $7.66T
+P/E Ratio          : 21.93
+Dividend Yield     : 0.99%
+Earnings Per Share : 24.58
+Volume             : 9.9M
+Average Volume     : 3.4M
+Company Overview   : Netflix is a leading company in its respective industry.
+Analyst Ratings    : Buy
+
+====================================================================================================
+Company Name       : Boeing
+Stock Code         : BOEING
+Current Price      : $3872.18
+Price Change       : +0.13%
+52-Week High       : $5080.00
+52-Week Low        : $743.76
+Market Capitalization: $14.11T
+P/E Ratio          : 34.10
+Dividend Yield     : 2.62%
+Earnings Per Share : 45.70
+Volume             : 1.0M
+Average Volume     : 7.9M
+Company Overview   : Boeing is a leading company in its respective industry.
+Analyst Ratings    : Buy
+
+====================================================================================================
+Company Name       : Qualcomm
+Stock Code         : QUALCO
+Current Price      : $1306.72
+Price Change       : +1.50%
+52-Week High       : $5785.21
+52-Week Low        : $544.50
+Market Capitalization: $4.27T
+P/E Ratio          : 36.83
+Dividend Yield     : 2.08%
+Earnings Per Share : 33.25
+Volume             : 6.3M
+Average Volume     : 4.3M
+Company Overview   : Qualcomm is a leading company in its respective industry.
+Analyst Ratings    : Sell
+
+====================================================================================================
+Company Name       : Adobe
+Stock Code         : ADOBE
+Current Price      : $974.66
+Price Change       : +2.93%
+52-Week High       : $5555.91
+52-Week Low        : $922.84
+Market Capitalization: $19.13T
+P/E Ratio          : 31.78
+Dividend Yield     : 0.83%
+Earnings Per Share : 44.89
+Volume             : 1.7M
+Average Volume     : 7.6M
+Company Overview   : Adobe is a leading company in its respective industry.
+Analyst Ratings    : Strong Buy
+
+====================================================================================================
+Company Name       : Salesforce
+Stock Code         : SALESF
+Current Price      : $1768.45
+Price Change       : -2.47%
+52-Week High       : $5807.52
+52-Week Low        : $874.85
+Market Capitalization: $15.49T
+P/E Ratio          : 19.94
+Dividend Yield     : 2.52%
+Earnings Per Share : 35.45
+Volume             : 6.2M
+Average Volume     : 1.8M
+Company Overview   : Salesforce is a leading company in its respective industry.
+Analyst Ratings    : Sell
+
+====================================================================================================
+Company Name       : Unilever
+Stock Code         : UNILEV
+Current Price      : $3624.37
+Price Change       : +2.09%
+52-Week High       : $5454.35
+52-Week Low        : $151.38
+Market Capitalization: $7.58T
+P/E Ratio          : 19.77
+Dividend Yield     : 1.96%
+Earnings Per Share : 48.58
+Volume             : 8.8M
+Average Volume     : 6.3M
+Company Overview   : Unilever is a leading company in its respective industry.
+Analyst Ratings    : Hold
+
+====================================================================================================
+Company Name       : Shell
+Stock Code         : SHELL
+Current Price      : $2087.85
+Price Change       : -0.48%
+52-Week High       : $5660.50
+52-Week Low        : $267.47
+Market Capitalization: $8.52T
+P/E Ratio          : 30.64
+Dividend Yield     : 0.94%
+Earnings Per Share : 18.05
+Volume             : 3.1M
+Average Volume     : 8.5M
+Company Overview   : Shell is a leading company in its respective industry.
+Analyst Ratings    : Buy
+
+====================================================================================================
+Company Name       : BP
+Stock Code         : BP
+Current Price      : $987.50
+Price Change       : +0.70%
+52-Week High       : $5170.31
+52-Week Low        : $915.84
+Market Capitalization: $1.16T
+P/E Ratio          : 27.44
+Dividend Yield     : 1.46%
+Earnings Per Share : 25.42
+Volume             : 8.4M
+Average Volume     : 4.7M
+Company Overview   : BP is a leading company in its respective industry.
+Analyst Ratings    : Buy
+
+====================================================================================================
+Company Name       : Volkswagen
+Stock Code         : VOLKSW
+Current Price      : $3011.44
+Price Change       : +1.92%
+52-Week High       : $5786.12
+52-Week Low        : $344.06
+Market Capitalization: $13.63T
+P/E Ratio          : 12.72
+Dividend Yield     : 1.01%
+Earnings Per Share : 15.36
+Volume             : 4.9M
+Average Volume     : 3.5M
+Company Overview   : Volkswagen is a leading company in its respective industry.
+Analyst Ratings    : Hold
+
+====================================================================================================
+Company Name       : Roche
+Stock Code         : ROCHE
+Current Price      : $4548.28
+Price Change       : -2.04%
+52-Week High       : $5891.50
+52-Week Low        : $802.37
+Market Capitalization: $3.78T
+P/E Ratio          : 30.91
+Dividend Yield     : 2.19%
+Earnings Per Share : 10.64
+Volume             : 4.2M
+Average Volume     : 7.0M
+Company Overview   : Roche is a leading company in its respective industry.
+Analyst Ratings    : Sell
+
+====================================================================================================
+Company Name       : Nestlé
+Stock Code         : NESTLÉ
+Current Price      : $1081.27
+Price Change       : +1.32%
+52-Week High       : $5462.30
+52-Week Low        : $678.45
+Market Capitalization: $11.82T
+P/E Ratio          : 10.04
+Dividend Yield     : 2.74%
+Earnings Per Share : 27.21
+Volume             : 4.0M
+Average Volume     : 2.4M
+Company Overview   : Nestlé is a leading company in its respective industry.
+Analyst Ratings    : Buy

@@ -1,0 +1,21 @@
+S.No | Company Name        | Symbol     | ₹Price
+1    | Infosys             | INFY       | ₹611.83
+2    | HDFC Bank           | HDFCBANK   | ₹2907.31
+3    | ICICI Bank          | ICICIBANK  | ₹4719.15
+4    | Adani Enterprises   | ADANIENT   | ₹620.60
+5    | Larsen & Toubro     | LT         | ₹2760.36
+6    | Bharti Airtel       | AIRTEL     | ₹4639.06
+7    | Wipro               | WIPRO      | ₹1893.43
+8    | State Bank of India | SBI        | ₹3390.20
+9    | HCL Technologies    | HCLTECH    | ₹2337.99
+10   | Bajaj Finance       | BAJAJFINSV | ₹2858.58
+11   | Kotak Mahindra Bank | KOTAKBANK  | ₹3654.82
+12   | ITC                 | ITC        | ₹917.87
+13   | Axis Bank           | AXISBANK   | ₹4974.26
+14   | Maruti Suzuki       | MARUTI     | ₹2053.55
+15   | NTPC                | NTPC       | ₹1639.73
+16   | Power Grid Corp     | POWERGRID  | ₹3531.82
+17   | UltraTech Cement    | ULTRACEMCO | ₹133.69
+18   | Asian Paints        | ASIANPAINT | ₹3468.96
+19   | Nestle India        | NESTLEIND  | ₹1343.07
+20   | Tata Motors         | TATAMOTORS | ₹1383.93
